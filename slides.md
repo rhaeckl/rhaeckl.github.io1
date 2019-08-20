@@ -1,5 +1,11 @@
-Clean Code
+# Reveal.js
+### HTML Presentations Made Easy
 
-## Second slide
+Created by [Hakim El Hattab][hakim]
 
-What is your understanding of clean code?
+---
+
+# THE END
+### BY Hakim El Hattab / hakim.se
+
+[hakim]: http://hakim.se
