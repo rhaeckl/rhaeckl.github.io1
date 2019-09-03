@@ -1,7 +1,5 @@
 ### Food for thought!
 
-
-
 Who do you want to be?
 
 
