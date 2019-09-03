@@ -6,26 +6,13 @@ Who do you want to be?
 
 
 
----
-
-
-
 Every developer is a programmer
 
 ![](rhaeckl.github.io/images/100002010000036F0000036F56B59D3271F0FCE0.png)
 
 
 
-
----
-
-
-
 Test
-
-
-
----
 
 
 
