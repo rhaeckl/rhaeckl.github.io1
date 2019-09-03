@@ -1,65 +1,67 @@
 <!doctype html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>reveal.js</title>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<link rel="stylesheet" href="css/reset.css">
-		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/moon.css">
+	<title>reveal.js</title>
 
-		<!-- Theme used for syntax highlighting of code -->
-		<link rel="stylesheet" href="lib/css/monokai.css">
+	<link rel="stylesheet" href="css/reset.css">
+	<link rel="stylesheet" href="css/reveal.css">
+	<link rel="stylesheet" href="css/theme/moon.css">
 
-		<!-- Printing and PDF exports -->
-		<script>
-			var link = document.createElement( 'link' );
-			link.rel = 'stylesheet';
-			link.type = 'text/css';
-			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
-			document.getElementsByTagName( 'head' )[0].appendChild( link );
-		</script>
-	</head>
-	<body>
-		<div class="reveal">
-			<div class="slides">
-				<section data-background="rhaeckl.github.io/images/10000201000007DE00000474AFEFE925D1FC3A79.png">
-				
-				<p><img src="rhaeckl.github.io/images/100002010000036F0000036F56B59D3271F0FCE0.png" 
-					height="400" width="400" 
-					style="background:none; border:none; box-shadow:none; margin-left: -30%; align:left;">
-				</p>
-				<p>
-					Test Driven Development
-				</p>
+	<!-- Theme used for syntax highlighting of code -->
+	<link rel="stylesheet" href="lib/css/monokai.css">
 
-				</section>
-				<section>Slide 2</section>
-				<section data-markdown="slides.md"  
-         			data-separator="^\n\n\n"  
-					data-separator-horizontal="---"
-         			data-separator-notes="^Note:"  
-         			data-charset="iso-8859-15">
-       			</section>
-			</div>
+	<!-- Printing and PDF exports -->
+	<script>
+		var link = document.createElement('link');
+		link.rel = 'stylesheet';
+		link.type = 'text/css';
+		link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+		document.getElementsByTagName('head')[0].appendChild(link);
+	</script>
+</head>
+
+<body>
+	<div class="reveal">
+		<div class="slides">
+			<section data-background="rhaeckl.github.io/images/10000201000007DE00000474AFEFE925D1FC3A79.png">
+				<div>
+					<p style="float:left;"><img src="rhaeckl.github.io/images/100002010000036F0000036F56B59D3271F0FCE0.png" height="400"
+							width="400"
+							style="background:none; border:none; box-shadow:none; margin-left: -30%; align:left;">
+					</p>
+				</div>
+				<div>
+					<p>
+						Test Driven Development
+					</p>
+				</div>
+			</section>
+			<section>Slide 2</section>
+			<section data-markdown="slides.md" data-separator="^\n\n\n" data-separator-horizontal="---"
+				data-separator-notes="^Note:" data-charset="iso-8859-15">
+			</section>
 		</div>
+	</div>
 
-		<script src="js/reveal.js"></script>
+	<script src="js/reveal.js"></script>
 
-		<script>
-			// More info about config & dependencies:
-			// - https://github.com/hakimel/reveal.js#configuration
-			// - https://github.com/hakimel/reveal.js#dependencies
-			Reveal.initialize({
-				dependencies: [
-					{ src: 'plugin/markdown/marked.js' },
-					{ src: 'plugin/markdown/markdown.js' },
-					{ src: 'plugin/notes/notes.js', async: true },
-					{ src: 'plugin/highlight/highlight.js', async: true }
-				]
-			});
-		</script>
-	</body>
+	<script>
+		// More info about config & dependencies:
+		// - https://github.com/hakimel/reveal.js#configuration
+		// - https://github.com/hakimel/reveal.js#dependencies
+		Reveal.initialize({
+			dependencies: [
+				{ src: 'plugin/markdown/marked.js' },
+				{ src: 'plugin/markdown/markdown.js' },
+				{ src: 'plugin/notes/notes.js', async: true },
+				{ src: 'plugin/highlight/highlight.js', async: true }
+			]
+		});
+	</script>
+</body>
+
 </html>
