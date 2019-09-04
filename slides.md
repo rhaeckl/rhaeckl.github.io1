@@ -11,6 +11,7 @@ Every developer is a programmer
 
 
 Every developer is a programmer <!-- .element: class="fragment" data-fragment-index="1" -->
+
 but not every programmer is a developer! <!-- .element: class="fragment" data-fragment-index="2" -->
 
 
