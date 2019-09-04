@@ -14,8 +14,10 @@ Every developer is a programmer
 
 but not every programmer is a developer! <!-- .element: class="fragment" data-fragment-index="1" -->
 
-<img align="left" src="rhaeckl.github.io/images/work-933061_640.jpg">
-<img align="left" src="rhaeckl.github.io/images/company-concept-creative-7369.jpg">
+<table><tr>
+<td> <img src="rhaeckl.github.io/images/work-933061_640.jpg" alt="Drawing" style="width: 250px;"/> </td>
+<td> <img src="rhaeckl.github.io/images/company-concept-creative-7369.jpg" alt="Drawing" style="width: 250px;"/> </td>
+</tr></table>
 
 
 
