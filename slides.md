@@ -16,7 +16,7 @@ but not every programmer is a developer! <!-- .element: class="fragment" data-fr
 
 <table><tr>
 <td> <img src="rhaeckl.github.io/images/work-933061_640.jpg" alt="Drawing" style="width: 300px;"/> </td>
-<td> <img src="rhaeckl.github.io/images/company-concept-creative-7369.jpg" alt="Drawing" style="width: 300px;"/> </td> <!-- .element: class="fragment" data-fragment-index="2" -->
+<td> <img src="rhaeckl.github.io/images/company-concept-creative-7369.jpg" alt="Drawing" style="width: 300px;"/> </td> <!-- .element: class="fragment" data-fragment-index="1" -->
 </tr></table>
 
 
