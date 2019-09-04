@@ -10,8 +10,8 @@ Every developer is a programmer
 
 
 
-Every developer is a programmer
-but not every programmer is a developer!
+- Every developer is a programmer
+- but not every programmer is a developer!
 
 
 # Reveal.js
