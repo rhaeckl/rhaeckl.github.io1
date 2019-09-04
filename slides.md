@@ -14,7 +14,8 @@ Every developer is a programmer
 
 but not every programmer is a developer! <!-- .element: class="fragment" data-fragment-index="1" -->
 
-![](rhaeckl.github.io/images/work-933061_640.jpg) | ![](rhaeckl.github.io/images/company-concept-creative-7369.jpg)
+<img align="left" src="rhaeckl.github.io/images/work-933061_640.jpg">
+<img align="left" src="rhaeckl.github.io/images/company-concept-creative-7369.jpg">
 
 
 
