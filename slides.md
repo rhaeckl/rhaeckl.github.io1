@@ -14,9 +14,7 @@ Every developer is a programmer
 
 but not every programmer is a developer! <!-- .element: class="fragment" data-fragment-index="1" -->
 
-  |  
-  |  
-![alt](rhaeckl.github.io/images/work-933061_640.jpg) | ![alt](rhaeckl.github.io/images/company-concept-creative-7369.jpg)
+| [![alt](rhaeckl.github.io/images/work-933061_640.jpg)] | [![alt](rhaeckl.github.io/images/company-concept-creative-7369.jpg)] |
 
 
 
