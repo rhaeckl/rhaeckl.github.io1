@@ -26,6 +26,10 @@ To be more specific:
     <td>is a problem solver</td>
     <td>is a formally trained programmer</td>
  </tr>
+ <tr>
+    <td>The Objective</td>
+    <td>The Objective</td>
+ </tr>
 </table>
 
 
