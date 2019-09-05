@@ -45,6 +45,22 @@ You write code for your colleagues to read.
 
 
 
+### Do you have to rush?
+#### Yes, because
+deadline is coming close.
+Backlog is getting bigger and bigger.
+...
+
+
+
+### What did you do?
+#### I then
+left a mess to be clead up later.
+wrote hacks.
+stayed late.
+
+
+
 # Reveal.js
 ### HTML Presentations Made Easy
 
