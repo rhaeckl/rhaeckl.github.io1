@@ -27,8 +27,8 @@ To be more specific:
     <td style="border:0"><p style="font-size:30px">is a formally trained programmer</p></td>
  </tr>
  <tr style="border:0">
-    <td style="border:0"><i style="font-size:30px">The Objective</i></td>
-    <td style="border:0"><i style="font-size:30px">The Objective</i></td>
+    <td style="border:0"><b style="font-size:30px">The Objective</b></td>
+    <td style="border:0"><b style="font-size:30px">The Objective</b></td>
  </tr>
  <tr style="border:0">
     <td style="border:0"><p style="font-size:30px">Someone who can solve problems by manipulating code.</p></td>
