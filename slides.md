@@ -17,6 +17,16 @@ but not every programmer is a developer! <!-- .element: class="fragment" data-fr
 
 To be more specific:
 
+<table>
+    <tr>
+        <td>Programmer</td>
+        <td>Developer</td>
+    </tr>
+    <tr>
+        <td>is a problem solver</td>
+        <td>is a formally trained programmer</td>
+    </tr>
+</table>
 | Programmer | Developer |
 
 
