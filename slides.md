@@ -6,12 +6,6 @@ Who do you want to be?
 
 Every developer is a programmer
 
-![](rhaeckl.github.io/images/100002010000036F0000036F56B59D3271F0FCE0.png)
-
-
-
-Every developer is a programmer
-
 but not every programmer is a developer! <!-- .element: class="fragment" data-fragment-index="1" -->
 
 <table><tr>
@@ -20,6 +14,8 @@ but not every programmer is a developer! <!-- .element: class="fragment" data-fr
 </tr></table>
 
 
+
+To be more specific:
 
 # Reveal.js
 ### HTML Presentations Made Easy
