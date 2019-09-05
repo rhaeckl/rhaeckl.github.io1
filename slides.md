@@ -18,17 +18,17 @@ but not every programmer is a developer! <!-- .element: class="fragment" data-fr
 To be more specific:
 
 <table border="0">
- <tr>
-    <td><b style="font-size:30px">Programmer</b></td>
-    <td><b style="font-size:30px">Developer</b></td>
+ <tr class="noborders">
+    <td>Programmer</td>
+    <td>Developer</td>
  </tr>
- <tr>
-    <td>is a problem solver</td>
-    <td>is a formally trained programmer</td>
+ <tr class="noborders">
+    <td><b style="font-size:30px">is a problem solver</b></td>
+    <td><b style="font-size:30px">is a formally trained programmer</b></td>
  </tr>
- <tr>
-    <td>The Objective</td>
-    <td>The Objective</td>
+ <tr class="noborders">
+    <td><b style="font-size:30px">The Objective</b></td>
+    <td><b style="font-size:30px">The Objective</b></td>
  </tr>
 </table>
 
