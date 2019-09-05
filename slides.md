@@ -40,24 +40,30 @@ To be more specific:
 
 ### Ask yourself,
 ### for whom do you write code?
-You write code not to show off, but to make things work.
-You write code for your colleagues to read.
+You write code not to show off, but to make things work.<!-- .element: class="fragment" data-fragment-index="1" -->
+You write code for your colleagues to read.<!-- .element: class="fragment" data-fragment-index="1" -->
 
 
 
 ### Do you have to rush?
 #### Yes, because
-deadline is coming close.
-Backlog is getting bigger and bigger.
-...
+deadline is coming close.<!-- .element: class="fragment" data-fragment-index="1" -->
+
+Backlog is getting bigger and bigger.<!-- .element: class="fragment" data-fragment-index="2" -->
+
+...<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 
 ### What did you do?
 #### I then
-left a mess to be clead up later.
-wrote hacks.
-stayed late.
+left a mess to be clead up later.<!-- .element: class="fragment" data-fragment-index="1" -->
+
+wrote hacks.<!-- .element: class="fragment" data-fragment-index="2" -->
+
+stayed late.<!-- .element: class="fragment" data-fragment-index="3" -->
+
+...<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 
