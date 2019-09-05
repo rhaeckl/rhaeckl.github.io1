@@ -275,3 +275,7 @@ body {
 @media print {
   .backgrounds {
     background-color: #002b36; } }
+
+.noborders td {
+  border:0;
+}
