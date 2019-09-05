@@ -38,6 +38,13 @@ To be more specific:
 
 
 
+###Ask yourself,
+###for whom do you write code?
+You write code not to show off, but to make things work.
+You write code for your colleagues to read.
+
+
+
 # Reveal.js
 ### HTML Presentations Made Easy
 
