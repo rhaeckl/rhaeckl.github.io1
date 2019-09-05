@@ -19,16 +19,16 @@ To be more specific:
 
 <table border="0">
  <tr style="border:0">
-    <td>Programmer</td>
-    <td>Developer</td>
+    <td style="border:0">Programmer</td>
+    <td style="border:0">Developer</td>
  </tr>
  <tr style="border:0">
-    <td><b style="font-size:30px">is a problem solver</b></td>
-    <td><b style="font-size:30px">is a formally trained programmer</b></td>
+    <td style="border:0"><b style="font-size:30px">is a problem solver</b></td>
+    <td style="border:0"><b style="font-size:30px">is a formally trained programmer</b></td>
  </tr>
  <tr style="border:0">
-    <td><b style="font-size:30px">The Objective</b></td>
-    <td><b style="font-size:30px">The Objective</b></td>
+    <td style="border:0"><b style="font-size:30px">The Objective</b></td>
+    <td style="border:0"><b style="font-size:30px">The Objective</b></td>
  </tr>
 </table>
 
