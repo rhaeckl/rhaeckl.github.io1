@@ -90,7 +90,7 @@ depend on your expert knowledge<!-- .element: class="fragment" data-fragment-ind
 
 
 
-#TDD
+# TDD
 ### Test DRIVEN development
 
 
@@ -100,9 +100,11 @@ Describe the behaviour of your units
 
 
 ### What TDD is <span style="color:red">NOT</span>
-TDD is not about testing!
-TDD is not a tool to make your code waterproof!
-TDD doesn't prevent you from making errors!
+TDD is not about testing!<!-- .element: class="fragment" data-fragment-index="1" -->
+
+TDD is not a tool to make your code waterproof!<!-- .element: class="fragment" data-fragment-index="2" -->
+
+TDD doesn't prevent you from making errors!<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 
