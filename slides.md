@@ -19,20 +19,20 @@ To be more specific:
 
 <table border="0">
  <tr style="border:0">
-    <td style="border:0">Programmer</td>
-    <td style="border:0">Developer</td>
+    <td style="border:0"><b style="font-size:30px">Programmer</b></td>
+    <td style="border:0"><b style="font-size:30px">Developer</b></td>
  </tr>
  <tr style="border:0">
-    <td style="border:0"><b style="font-size:30px">is a problem solver</b></td>
-    <td style="border:0"><b style="font-size:30px">is a formally trained programmer</b></td>
+    <td style="border:0"><p style="font-size:30px">is a problem solver</></td>
+    <td style="border:0"><p style="font-size:30px">is a formally trained programmer</p></td>
  </tr>
  <tr style="border:0">
-    <td style="border:0"><b style="font-size:30px">The Objective</b></td>
-    <td style="border:0"><b style="font-size:30px">The Objective</b></td>
+    <td style="border:0"><i style="font-size:30px">The Objective</i></td>
+    <td style="border:0"><i style="font-size:30px">The Objective</i></td>
  </tr>
  <tr style="border:0">
-    <td style="border:0"><b style="font-size:30px">Someone who can solve problems by manipulating code.</b></td>
-    <td style="border:0"><b style="font-size:30px">To solve problems or create things in accordance with design and implementation principles, including performance, maintainability, scalability, robustness, readability and security.</b></td>
+    <td style="border:0"><p style="font-size:30px">Someone who can solve problems by manipulating code.</p></td>
+    <td style="border:0"><p style="font-size:30px">To solve problems or create things in accordance with design and implementation principles, including performance, maintainability, scalability, robustness, readability and security.</p></td>
  </tr>
 </table>
 
