@@ -67,18 +67,48 @@ stayed late.<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 
-# Reveal.js
-### HTML Presentations Made Easy
+### Why do you probably do this?
+I am afraid of being fired.<!-- .element: class="fragment" data-fragment-index="1" -->
 
-Created by [Hakim El Hattab][hakim]
+I am afraid that I will not advance in my company.<!-- .element: class="fragment" data-fragment-index="2" -->
 
-
-
----
+...<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 
-# THE END
-### BY Hakim El Hattab / hakim.se
+### Think twice!
+Your job is to defend your code with equal passion.
 
-[hakim]: http://hakim.se
+
+
+### Do not forget
+POs and Managers<!-- .element: class="fragment" data-fragment-index="1" -->
+
+need to defend their timeline,<!-- .element: class="fragment" data-fragment-index="2" -->
+
+depend on your expert knowledge<!-- .element: class="fragment" data-fragment-index="3" -->
+
+
+
+#TDD
+### Test DRIVEN development
+
+
+### Writing specifications
+Describe the behaviour of your units
+
+
+
+### What TDD is <span style="color:red">NOT</span>
+TDD is not about testing!
+TDD is not a tool to make your code waterproof!
+TDD doesn't prevent you from making errors!
+
+
+
+### So then,
+### why would you do TDD?
+
+
+
+### Preventing bugs is cheaper than fixing bugs
