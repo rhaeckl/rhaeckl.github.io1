@@ -17,6 +17,8 @@ but not every programmer is a developer! <!-- .element: class="fragment" data-fr
 
 To be more specific:
 
+| Programmer | Developer |
+
 # Reveal.js
 ### HTML Presentations Made Easy
 
