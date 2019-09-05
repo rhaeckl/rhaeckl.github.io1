@@ -30,6 +30,10 @@ To be more specific:
     <td style="border:0"><b style="font-size:30px">The Objective</b></td>
     <td style="border:0"><b style="font-size:30px">The Objective</b></td>
  </tr>
+ <tr style="border:0">
+    <td style="border:0"><b style="font-size:30px">Someone who can solve problems by manipulating code.</b></td>
+    <td style="border:0"><b style="font-size:30px">To solve problems or create things in accordance with design and implementation principles, including performance, maintainability, scalability, robustness, readability and security.</b></td>
+ </tr>
 </table>
 
 
