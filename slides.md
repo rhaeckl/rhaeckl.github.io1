@@ -115,3 +115,11 @@ TDD doesn't prevent you from making errors!<!-- .element: class="fragment" data-
 
 ### Preventing bugs is cheaper than fixing bugs
 <img src="rhaeckl.github.io/images/comparingTechniques.jpg" width="500">
+
+
+
+### Benefits of TDD?
+
+
+
+#### You have to think
