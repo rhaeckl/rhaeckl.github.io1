@@ -176,7 +176,7 @@ Production code which already exists and which is supposedly working is boring t
 
 # TDD is an investment!
 
-t
+
 
 ### Understand that tests
 
@@ -199,3 +199,15 @@ Let's do a hands on
 
 
 <img src="rhaeckl.github.io/images/tdd.png" width="500">
+
+
+#### How to write a Test?
+
+Think about a baby step!
+
+Always start with an assertion!
+
+Arrange yourself
+
+then get your act together!
+
