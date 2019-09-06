@@ -213,8 +213,7 @@ then get your act together!
 
 
 
-<pre class="java">
-    <code>
+<pre class="java"><code>
         @Test
         public void wrap_whenEmptyWord_thenReturnEmptyWord() {
             // Arrange
@@ -226,5 +225,4 @@ then get your act together!
             // Assert
             assertThat(wrappedText).isEqualTo("");
         }
-    </code>
-</pre>
+</code></pre>
