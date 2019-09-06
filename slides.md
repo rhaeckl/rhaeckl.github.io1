@@ -214,15 +214,15 @@ then get your act together!
 
 
 <pre class="java"><code>
-        @Test
-        public void wrap_whenEmptyWord_thenReturnEmptyWord() {
-            // Arrange
-            TextWrapper textWrapper = new TextWrapper();
+@Test
+public void wrap_whenEmptyWord_thenReturnEmptyWord() {
+    // Arrange
+    TextWrapper textWrapper = new TextWrapper();
+    
+    // Act
+    String wrappedText = textWrapper.wrap("");
 
-            // Act
-            String wrappedText = textWrapper.wrap("");
-
-            // Assert
-            assertThat(wrappedText).isEqualTo("");
-        }
+    // Assert
+    assertThat(wrappedText).isEqualTo("");
+}
 </code></pre>
