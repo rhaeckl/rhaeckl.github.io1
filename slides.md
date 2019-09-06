@@ -213,8 +213,18 @@ then get your act together!
 
 
 
-```
-    def sum(a, b)
-      a + b
-    end
-    ```
+<pre class="java">
+    <code>
+        @Test
+        public void wrap_whenEmptyWord_thenReturnEmptyWord() {
+            // Arrange
+            TextWrapper textWrapper = new TextWrapper();
+
+            // Act
+            String wrappedText = textWrapper.wrap("");
+
+            // Assert
+            assertThat(wrappedText).isEqualTo("");
+        }
+    </code>
+</pre>
