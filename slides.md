@@ -203,13 +203,13 @@ Let's do a hands on
 
 #### How to write a Test?
 
-Think about a baby step!
+Think about a baby step!<!-- .element: class="fragment" data-fragment-index="1" -->
 
-Always start with an assertion!
+Always start with an assertion!<!-- .element: class="fragment" data-fragment-index="2" -->
 
-Arrange yourself
+Arrange yourself<!-- .element: class="fragment" data-fragment-index="3" -->
 
-then get your act together!
+then get your act together!<!-- .element: class="fragment" data-fragment-index="4" -->
 
 
 
@@ -226,3 +226,11 @@ public void wrap_whenEmptyWord_thenReturnEmptyWord() {
     assertThat(wrappedText).isEqualTo("");
 }
 </code></pre>
+
+
+
+#### Please mind that
+
+the more detailed your tests get<!-- .element: class="fragment" data-fragment-index="1" -->
+
+the more generic your code gets!<!-- .element: class="fragment" data-fragment-index="2" -->
