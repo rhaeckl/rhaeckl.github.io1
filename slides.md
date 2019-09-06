@@ -114,4 +114,4 @@ TDD doesn't prevent you from making errors!<!-- .element: class="fragment" data-
 
 
 ### Preventing bugs is cheaper than fixing bugs
-![alt text](rhaeckl.github.io/images/comparingTechniques.jpg)
+![alt text](rhaeckl.github.io/images/comparingTechniques.jpg = 250x)
