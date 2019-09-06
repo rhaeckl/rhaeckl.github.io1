@@ -123,3 +123,79 @@ TDD doesn't prevent you from making errors!<!-- .element: class="fragment" data-
 
 
 #### You have to think
+
+about the requirements.<!-- .element: class="fragment" data-fragment-index="1" -->
+
+about the desired behaviour.<!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+
+#### You will
+
+ensure quality.<!-- .element: class="fragment" data-fragment-index="1" -->
+
+have more confidence in your code.<!-- .element: class="fragment" data-fragment-index="2" -->
+
+be able to ship in short intervals.<!-- .element: class="fragment" data-fragment-index="3" -->
+
+know that everything worked just couple minutes ago.<!-- .element: class="fragment" data-fragment-index="4" -->
+
+
+
+#### You will
+
+do small steps.<!-- .element: class="fragment" data-fragment-index="1" -->
+
+focus on one task.<!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+
+#### Your code will
+
+be safer to refactor.<!-- .element: class="fragment" data-fragment-index="1" -->
+
+be de-coupled.<!-- .element: class="fragment" data-fragment-index="2" -->
+
+be moldable instead of rigid.<!-- .element: class="fragment" data-fragment-index="3" -->
+
+
+
+# Why not test afterwards?
+
+
+
+Code which is copled is tedious to refactor.<!-- .element: class="fragment" data-fragment-index="1" -->
+
+Code which's behaviour is not described is hard to enhance without regression erros.<!-- .element: class="fragment" data-fragment-index="2" -->
+
+Code which is not described by tests let's you hardly identify unused or not required parts.<!-- .element: class="fragment" data-fragment-index="3" -->
+
+Production code which already exists and which is supposedly working is boring to characterize!<!-- .element: class="fragment" data-fragment-index="4" -->
+
+
+
+# TDD is an investment!
+
+t
+
+### Understand that tests
+
+have to be executed<!-- .element: class="fragment" data-fragment-index="1" -->
+
+have to finish fast.<!-- .element: class="fragment" data-fragment-index="2" -->
+
+have to be independent.<!-- .element: class="fragment" data-fragment-index="3" -->
+
+need the same kind of maintenance as production code.<!-- .element: class="fragment" data-fragment-index="4" -->
+
+
+
+Let's do a hands on
+
+
+
+# How to do TDD?
+
+
+
+<img src="rhaeckl.github.io/images/tdd.png" width="500">
