@@ -319,7 +319,7 @@ Imagine you have following class:
 
 <pre class="java"><code>
     public class AreaCalculator {
-        public double calculateArea(List<Rectangle> rectangles) {
+        public double calculateArea(List&lt;Rectangle&gt rectangles) {
             double area;
 
             for (Rectangle rectangle : rectangles) {
