@@ -306,4 +306,33 @@ Which would make your employee class look like this:
 
 
 
-###
+### Open closed principle
+
+<blockquote cite="Robert C. Martin">
+    A class should have only one reason to change (Robert C. Martin)
+</blockquote><!-- .element: class="fragment" data-fragment-index="1" -->
+
+
+
+Imagine you have following class:
+
+<pre class="java"><code>
+    public class AreaCalculator {
+        
+        public double calculateArea(List<Rectangle> rectangles) {
+            double area;
+
+            for (Rectangle rectangle : rectangles) {
+                area += rectangle.width * rectangle.height;
+            }
+
+            return area;
+        }
+    }
+</code></pre>
+
+
+
+Imagine moreover you'd now have circles.
+
+What would you most likely do?
