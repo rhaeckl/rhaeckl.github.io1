@@ -94,6 +94,7 @@ depend on your expert knowledge<!-- .element: class="fragment" data-fragment-ind
 ### Test DRIVEN development
 
 
+
 ### Writing specifications
 Describe the behaviour of your units
 
@@ -318,17 +319,17 @@ Which would make your employee class look like this:
 Imagine you have following class:
 
 <pre class="java"><code>
-    public class AreaCalculator {
-        public double calculateArea(List&lt;Rectangle&gt rectangles) {
-            double area;
+public class AreaCalculator {
+    public double calculateArea(List&lt;Rectangle&gt rectangles) {
+        double area;
 
-            for (Rectangle rectangle : rectangles) {
-                area += rectangle.width * rectangle.height;
-            }
-
-            return area;
+        for (Rectangle rectangle : rectangles) {
+            area += rectangle.width * rectangle.height;
         }
+
+        return area;
     }
+}
 </code></pre>
 
 
@@ -337,21 +338,21 @@ Imagine moreover you'd now have circles.
 
 What would you most likely do?<!-- .element: class="fragment" data-fragment-index="1" -->
 <pre class="java"><code>
-    public class AreaCalculator {
-        public double calculateArea(List&lt;Shape&gt shapes) {
-            double area;
-
-            for (Shape shape : shapes) {
-                if (shape.getType() == "Rectangle") {
-                    area += shape.width * shape.height;
-                }
-
-                area += Math.pow(shape.radius, 2) * Math.PI;
+public class AreaCalculator {
+    public double calculateArea(List&lt;Shape&gt shapes) {
+        double area;
+        
+        for (Shape shape : shapes) {
+            if (shape.getType() == "Rectangle") {
+                area += shape.width * shape.height;
             }
 
-            return area;
+            area += Math.pow(shape.radius, 2) * Math.PI;
         }
+
+        return area;
     }
+}
 </code></pre><!-- .element: class="fragment" data-fragment-index="2" -->
 
 
@@ -359,7 +360,6 @@ What would you most likely do?<!-- .element: class="fragment" data-fragment-inde
 ### So what to do?
 
 Maybe something like this:<!-- .element: class="fragment" data-fragment-index="1" -->
-
 <pre class="java"><code>
 public class AreaCalculator {
     public double calculateArea(List&lt;Shape&gt shapes) {
@@ -399,7 +399,7 @@ public class Square implements Shape {
 
 
 
-# Liskov Substitution Principle
+### Liskov Substitution Principle
 
 <blockquote>
    If for each object O1 of type S and an object O2 of type T such that for all program P defined in terms of T, the behavior of P is unchanged when O1 is substituted for O2 then S is a subtype of T. (Barbara Liskov, 1981)
@@ -435,7 +435,6 @@ Abstractions should not depend on details. Details should depend on abstractions
 
 
 Imagine you'd have an implementation of switch.
-
 <pre class="java"><code>
 package de.igel.university;
 import com.partner.devices.Lamp;
@@ -481,7 +480,6 @@ interface Device {
 
 
 Hence it is now easy to implement various devices. Like:
-
 <pre class="java"><code>
 package another.companys.weird.lamp;
 
