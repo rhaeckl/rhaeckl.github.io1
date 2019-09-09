@@ -239,20 +239,13 @@ the more generic your code gets!<!-- .element: class="fragment" data-fragment-in
 
 
 ### SOLID
-- Single Responsibility Principle<!-- .element: class="fragment" data-fragment-index="1" -->
-- Open Close Principle<!-- .element: class="fragment" data-fragment-index="2" -->
-- Liskov Substitution Principle<!-- .element: class="fragment" data-fragment-index="3" -->
-- Interface segregation Principle<!-- .element: class="fragment" data-fragment-index="4" -->
-- Dependency Inversion Principle<!-- .element: class="fragment" data-fragment-index="5" -->
-
-
 
 <ul>
-    <li class="fragment" data-fragment-index="1"><span style="color:orange">Single Responsibility Principle</span></li>
-    <li class="fragment" data-fragment-index="2"><span style="color:orange">Open Close Principle</span></li>
-    <li class="fragment" data-fragment-index="3"><span style="color:orange">Liskov Substitution Principle</span></li>
-    <li class="fragment" data-fragment-index="4"><span style="color:orange">Interface segregation Principle</span></li>
-    <li class="fragment" data-fragment-index="5"><span style="color:orange">Dependency Inversion Principle</span></li>
+    <li class="fragment" data-fragment-index="1"><span style="color:orange">S</span>ingle Responsibility Principle</li>
+    <li class="fragment" data-fragment-index="2"><span style="color:orange">O</span>pen Close Principle</li>
+    <li class="fragment" data-fragment-index="3"><span style="color:orange">L</span>iskov Substitution Principle</li>
+    <li class="fragment" data-fragment-index="4"><span style="color:orange">I</span>nterface segregation Principle</li>
+    <li class="fragment" data-fragment-index="5"><span style="color:orange">D</span>ependency Inversion Principle</li>
 </ul>
 
 
