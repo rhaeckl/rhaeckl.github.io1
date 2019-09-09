@@ -336,3 +336,63 @@ Imagine you have following class:
 Imagine moreover you'd now have circles.
 
 What would you most likely do?<!-- .element: class="fragment" data-fragment-index="1" -->
+<pre class="java"><code>
+    public class AreaCalculator {
+        public double calculateArea(List&lt;Shape&gt shapes) {
+            double area;
+
+            for (Shape shape : shapes) {
+                if (shape.getType() == "Rectangle") {
+                    area += shape.width * shape.height;
+                }
+
+                area += Math.pow(shape.radius, 2) * Math.PI;
+            }
+
+            return area;
+        }
+    }
+</code></pre>
+
+
+
+### So what to do?
+
+Maybe something like this:
+
+<pre class="java"><code>
+public class AreaCalculator {
+    public double calculateArea(List&lt;Shape&gt shapes) {
+        double area;
+
+        for (Shape shape : shapes) {
+            area += shape.calculateArea();
+        }
+
+        return area;
+    }
+}
+</code></pre>
+
+
+
+Which would leave your Shapes to look like this:
+<pre class="java"><code>
+public class Circle implements Shape {
+    private double radius;
+
+    @Override
+    public double calculateArea() {
+        return Math.pow(radius, 2) * Math.PI;
+    }
+}
+
+public class Square implements Shape {
+    private double radius;
+
+    @Override
+    public double calculateArea() {
+        return height * width;
+    }
+}
+</code></pre>
