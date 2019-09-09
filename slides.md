@@ -239,9 +239,12 @@ the more generic your code gets!<!-- .element: class="fragment" data-fragment-in
 
 
 ### SOLID
+- <span style="color:red">S</span>ingle Responsibility Principle<!-- .element: class="fragment" data-fragment-index="1" -->
+- <span style="color:red">O</span>pen Close Principle<!-- .element: class="fragment" data-fragment-index="2" -->
+- <span style="color:red">L</span>iskov Substitution Principle<!-- .element: class="fragment" data-fragment-index="3" -->
+- <span style="color:red">I</span>nterface segregation Principle<!-- .element: class="fragment" data-fragment-index="4" -->
+- <span style="color:red">D</span>ependency Inversion Principle<!-- .element: class="fragment" data-fragment-index="5" -->
 
-- <span style="color:green">S</span>ingle Responsibility Principle<!-- .element: class="fragment" data-fragment-index="1" -->
-- <span style="color:green">O</span>pen Close Principle<!-- .element: class="fragment" data-fragment-index="2" -->
-- <span style="color:green">L</span>iskov Substitution Principle<!-- .element: class="fragment" data-fragment-index="3" -->
-- <span style="color:green">I</span>nterface segregation Principle<!-- .element: class="fragment" data-fragment-index="4" -->
-- <span style="color:green">D</span>ependency Inversion Principle<!-- .element: class="fragment" data-fragment-index="5" -->
+
+
+### Single Responsibility Principle
