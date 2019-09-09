@@ -253,7 +253,7 @@ the more generic your code gets!<!-- .element: class="fragment" data-fragment-in
 ### Single Responsibility Principle
 
 <blockquote cite="Robert C. Martin">
-    A class should have only one reason to change
+    A class should have only one reason to change (Robert C. Martin)
 </blockquote>
 
 
@@ -265,7 +265,7 @@ public class Employee {
     private Date dateOfJoining;
     // & other Attributes
     // Getters & Setters forattributes
-    
+
     public boolean isPromotionDue() {
         //Code to determine promotion
     }
@@ -274,3 +274,36 @@ public class Employee {
         //Code to calculate tax
     }
 </code></pre>
+
+
+
+### How about seperating concerns?
+
+<pre class="java"><code>
+public class HRPromotion {
+    public boolean is PromotionDue(Employee employee) {
+        // Code to determine promotion
+    }
+}
+
+public class TaxCalculator {
+    public boolean calculateTaxFor(Employee employee) {
+        // Code to calculate tax
+    }
+}
+</code></pre>
+
+
+
+Which would make your employee class look like this:
+<pre class="java"><code>
+    public class Employee {
+        private Date dateOfJoining;
+        // & other Attributes
+        // Getters & Setters for attributes
+    }
+</code></pre>
+
+
+
+###
