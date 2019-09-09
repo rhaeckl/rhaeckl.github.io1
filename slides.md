@@ -247,4 +247,11 @@ the more generic your code gets!<!-- .element: class="fragment" data-fragment-in
 
 
 
+<aside class="notes" >
+    - talk about page titles
+    - anecdote about paragraphs
+</aside>
+
+
+
 ### Single Responsibility Principle
