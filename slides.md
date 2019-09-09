@@ -414,7 +414,7 @@ public class Square implements Shape {
 
 
 
-# Interface Segregation
+### Interface Segregation
 
 <blockquote>
 Clients should not be forced to implement interfaces they don't use.
@@ -424,10 +424,76 @@ Instead of one fat interface many small interfaces are preferred based on groups
 
 
 
-# Dependency Inversion Principle
+### Dependency Inversion Principle
 
 <blockquote>
 High-level modules should not depend on low-lwevel modules. Both should depend on abstractions.<!-- .element: class="fragment" data-fragment-index="1" -->
 
-Abstractions should not depend on details. Details should depend on abstractions.<!-- .element: class="fragment" data-fragment-index="1" -->
+Abstractions should not depend on details. Details should depend on abstractions.<!-- .element: class="fragment" data-fragment-index="2" -->
 </blockquote>
+
+
+
+Imagine you'd have an implementation of switch.
+
+<pre class="java"><code>
+package de.igel.university;
+import com.partner.devices.Lamp;
+
+public class Switch {
+    Lamp lamp = new Lamp();
+
+    public void turnOn() {
+        lamp.on();
+    }
+
+    public void turnOff() {
+        lamp.off();
+    }
+}
+</code></pre>
+
+
+
+What happens to the switch class if something changes in the lamp class?
+
+So how about:<!-- .element: class="fragment" data-fragment-index="1" -->
+<pre class="java"><code>
+package de.igel.lamp.switch;
+
+public class Switch {
+    public void turnOn(Device device) {
+        device.turnOn();
+    }
+
+    public void turnOff(Device device) {
+        device.turnOff();
+    }
+}
+
+interface Device {
+    void turnOn();
+
+    void turnOff();
+}
+</code></pre><!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+
+Hence it is now easy to implement various devices. Like:
+
+<pre class="java"><code>
+package another.companys.weird.lamp;
+
+public class MegaLamp implements Device {
+    @Override
+    public void turnOn() {
+        // implementation
+    }
+
+    @Override
+    public void turnOff() {
+        // implementation
+    }
+}
+</code></pre>
