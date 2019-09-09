@@ -247,10 +247,13 @@ the more generic your code gets!<!-- .element: class="fragment" data-fragment-in
 
 
 
-<aside class="notes" >
-    - talk about page titles
-    - anecdote about paragraphs
-</aside>
+<ul>
+    <li class="fragment" data-fragment-index="2">Single Responsibility Principle</li>
+    <li class="fragment" data-fragment-index="1">Open Close Principle</li>
+    <li class="fragment" data-fragment-index="1">Liskov Substitution Principle</li>
+    <li class="fragment" data-fragment-index="1">Interface segregation Principle</li>
+    <li class="fragment" data-fragment-index="1">Dependency Inversion Principle</li>
+</ul>
 
 
 
