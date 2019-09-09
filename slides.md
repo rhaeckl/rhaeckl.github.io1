@@ -255,3 +255,22 @@ the more generic your code gets!<!-- .element: class="fragment" data-fragment-in
 <blockquote cite="Robert C. Martin">
     A class should have only one reason to change
 </blockquote>
+
+
+
+Imagine you have a class Employee like this:
+
+<pre class="java"><code>
+public class Employee {
+    private Date dateOfJoining;
+    // & other Attributes
+    // Getters & Setters forattributes
+    
+    public boolean isPromotionDue() {
+        //Code to determine promotion
+    }
+        
+    public calculateIncomeTax() {
+        //Code to calculate tax
+    }
+</code></pre>
