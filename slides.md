@@ -248,11 +248,11 @@ the more generic your code gets!<!-- .element: class="fragment" data-fragment-in
 
 
 <ul>
-    <li class="fragment" data-fragment-index="1">Single Responsibility Principle</li>
-    <li class="fragment" data-fragment-index="2">Open Close Principle</li>
-    <li class="fragment" data-fragment-index="3">Liskov Substitution Principle</li>
-    <li class="fragment" data-fragment-index="4">Interface segregation Principle</li>
-    <li class="fragment" data-fragment-index="5">Dependency Inversion Principle</li>
+    <li class="fragment" data-fragment-index="1"><span style="color:orange">Single Responsibility Principle</span></li>
+    <li class="fragment" data-fragment-index="2"><span style="color:orange">Open Close Principle</span></li>
+    <li class="fragment" data-fragment-index="3"><span style="color:orange">Liskov Substitution Principle</span></li>
+    <li class="fragment" data-fragment-index="4"><span style="color:orange">Interface segregation Principle</span></li>
+    <li class="fragment" data-fragment-index="5"><span style="color:orange">Dependency Inversion Principle</span></li>
 </ul>
 
 
