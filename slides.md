@@ -251,3 +251,7 @@ the more generic your code gets!<!-- .element: class="fragment" data-fragment-in
 
 
 ### Single Responsibility Principle
+
+<blockquote cite="Robert C. Martin">
+    A class should have only one reason to change
+</blockquote>
