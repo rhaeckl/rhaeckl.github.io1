@@ -396,3 +396,38 @@ public class Square implements Shape {
     }
 }
 </code></pre>
+
+
+
+# Liskov Substitution Principle
+
+<blockquote>
+   If for each object O1 of type S and an object O2 of type T such that for all program P defined in terms of T, the behavior of P is unchanged when O1 is substituted for O2 then S is a subtype of T. (Barbara Liskov, 1981)
+</blockquote><!-- .element: class="fragment" data-fragment-index="1" -->
+
+
+
+### The principle defines the behavioral rules of inheritance
+<blockquote>
+    Instance of desired class must be usable through the interface of its base class without clients of the base class being able to tell the difference. Subtypes must be substitutable for their base types.
+</blockquote>
+
+
+
+# Interface Segregation
+
+<blockquote>
+Clients should not be forced to implement interfaces they don't use.
+
+Instead of one fat interface many small interfaces are preferred based on groups of methods, each one serving one submodule.
+</blockquote><!-- .element: class="fragment" data-fragment-index="1" -->
+
+
+
+# Dependency Inversion Principle
+
+<blockquote>
+High-level modules should not depend on low-lwevel modules. Both should depend on abstractions.<!-- .element: class="fragment" data-fragment-index="1" -->
+
+Abstractions should not depend on details. Details should depend on abstractions.<!-- .element: class="fragment" data-fragment-index="1" -->
+</blockquote>
