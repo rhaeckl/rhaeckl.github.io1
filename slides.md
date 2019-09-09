@@ -240,6 +240,7 @@ the more generic your code gets!<!-- .element: class="fragment" data-fragment-in
 
 ### SOLID
 #+ATTR_REVEAL: :frag (grow shrink roll-in fade-out none) :frag_idx (4 3 2 1 -)
+
 * Single Responsibility Principle
 * Open Close Principle
 * Liskov Substitution Principle
