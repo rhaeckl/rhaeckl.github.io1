@@ -164,13 +164,13 @@ be moldable instead of rigid.<!-- .element: class="fragment" data-fragment-index
 
 
 
-Code which is copled is tedious to refactor.<!-- .element: class="fragment" data-fragment-index="1" -->
+Code which is copled is tedious to refactor.
 
-Code which's behaviour is not described is hard to enhance without regression erros.<!-- .element: class="fragment" data-fragment-index="2" -->
+Code which's behaviour is not described is hard to enhance without regression erros.<!-- .element: class="fragment" data-fragment-index="1" -->
 
-Code which is not described by tests let's you hardly identify unused or not required parts.<!-- .element: class="fragment" data-fragment-index="3" -->
+Code which is not described by tests let's you hardly identify unused or not required parts.<!-- .element: class="fragment" data-fragment-index="2" -->
 
-Production code which already exists and which is supposedly working is boring to characterize!<!-- .element: class="fragment" data-fragment-index="4" -->
+Production code which already exists and which is supposedly working is boring to characterize!<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 
