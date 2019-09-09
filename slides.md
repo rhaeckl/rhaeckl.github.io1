@@ -273,6 +273,7 @@ public class Employee {
     public calculateIncomeTax() {
         //Code to calculate tax
     }
+}
 </code></pre>
 
 
@@ -318,7 +319,6 @@ Imagine you have following class:
 
 <pre class="java"><code>
     public class AreaCalculator {
-        
         public double calculateArea(List<Rectangle> rectangles) {
             double area;
 
@@ -335,4 +335,4 @@ Imagine you have following class:
 
 Imagine moreover you'd now have circles.
 
-What would you most likely do?
+What would you most likely do?<!-- .element: class="fragment" data-fragment-index="1" -->
