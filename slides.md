@@ -239,20 +239,20 @@ the more generic your code gets!<!-- .element: class="fragment" data-fragment-in
 
 
 ### SOLID
-- <span style="color:blue">S</span>ingle Responsibility Principle<!-- .element: class="fragment" data-fragment-index="1" -->
-- <span style="color:blue">O</span>pen Close Principle<!-- .element: class="fragment" data-fragment-index="2" -->
-- <span style="color:blue">L</span>iskov Substitution Principle<!-- .element: class="fragment" data-fragment-index="3" -->
-- <span style="color:blue">I</span>nterface segregation Principle<!-- .element: class="fragment" data-fragment-index="4" -->
-- <span style="color:blue">D</span>ependency Inversion Principle<!-- .element: class="fragment" data-fragment-index="5" -->
+- Single Responsibility Principle<!-- .element: class="fragment" data-fragment-index="1" -->
+- Open Close Principle<!-- .element: class="fragment" data-fragment-index="2" -->
+- Liskov Substitution Principle<!-- .element: class="fragment" data-fragment-index="3" -->
+- Interface segregation Principle<!-- .element: class="fragment" data-fragment-index="4" -->
+- Dependency Inversion Principle<!-- .element: class="fragment" data-fragment-index="5" -->
 
 
 
 <ul>
-    <li class="fragment" data-fragment-index="2">Single Responsibility Principle</li>
-    <li class="fragment" data-fragment-index="1">Open Close Principle</li>
-    <li class="fragment" data-fragment-index="1">Liskov Substitution Principle</li>
-    <li class="fragment" data-fragment-index="1">Interface segregation Principle</li>
-    <li class="fragment" data-fragment-index="1">Dependency Inversion Principle</li>
+    <li class="fragment" data-fragment-index="1">Single Responsibility Principle</li>
+    <li class="fragment" data-fragment-index="2">Open Close Principle</li>
+    <li class="fragment" data-fragment-index="3">Liskov Substitution Principle</li>
+    <li class="fragment" data-fragment-index="4">Interface segregation Principle</li>
+    <li class="fragment" data-fragment-index="5">Dependency Inversion Principle</li>
 </ul>
 
 
