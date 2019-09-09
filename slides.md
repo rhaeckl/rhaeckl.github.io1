@@ -352,13 +352,13 @@ What would you most likely do?<!-- .element: class="fragment" data-fragment-inde
             return area;
         }
     }
-</code></pre>
+</code></pre><!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 
 ### So what to do?
 
-Maybe something like this:
+Maybe something like this:<!-- .element: class="fragment" data-fragment-index="1" -->
 
 <pre class="java"><code>
 public class AreaCalculator {
@@ -372,7 +372,7 @@ public class AreaCalculator {
         return area;
     }
 }
-</code></pre>
+</code></pre><!-- .element: class="fragment" data-fragment-index="1" -->
 
 
 
