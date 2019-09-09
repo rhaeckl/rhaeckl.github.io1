@@ -57,7 +57,7 @@ Backlog is getting bigger and bigger.<!-- .element: class="fragment" data-fragme
 
 ### What did you do?
 #### I then
-left a mess to be clead up later.<!-- .element: class="fragment" data-fragment-index="1" -->
+left a mess to be cleared up later.<!-- .element: class="fragment" data-fragment-index="1" -->
 
 wrote hacks.<!-- .element: class="fragment" data-fragment-index="2" -->
 
@@ -201,6 +201,7 @@ Let's do a hands on
 <img src="rhaeckl.github.io/images/tdd.png" width="500">
 
 
+
 #### How to write a Test?
 
 Think about a baby step!<!-- .element: class="fragment" data-fragment-index="1" -->
@@ -234,3 +235,13 @@ public void wrap_whenEmptyWord_thenReturnEmptyWord() {
 the more detailed your tests get<!-- .element: class="fragment" data-fragment-index="1" -->
 
 the more generic your code gets!<!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+
+### SOLID
+#+ATTR_REVEAL: :frag (grow shrink roll-in fade-out none) :frag_idx (4 3 2 1 -)
+* Single Responsibility Principle
+* Open Close Principle
+* Liskov Substitution Principle
+* Interface segregation Principle
+* Dependency Inversion Principle
