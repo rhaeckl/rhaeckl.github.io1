@@ -165,7 +165,7 @@ be moldable instead of rigid.<!-- .element: class="fragment" data-fragment-index
 
 
 
-Code which is copled is tedious to refactor.
+Code which is coupled is tedious to refactor.
 
 Code which's behaviour is not described is hard to enhance without regression erros.<!-- .element: class="fragment" data-fragment-index="1" -->
 
@@ -427,7 +427,7 @@ Instead of one fat interface many small interfaces are preferred based on groups
 ### Dependency Inversion Principle
 
 <blockquote>
-High-level modules should not depend on low-lwevel modules. Both should depend on abstractions.<!-- .element: class="fragment" data-fragment-index="1" -->
+High-level modules should not depend on low-level modules. Both should depend on abstractions.<!-- .element: class="fragment" data-fragment-index="1" -->
 
 Abstractions should not depend on details. Details should depend on abstractions.<!-- .element: class="fragment" data-fragment-index="2" -->
 </blockquote>
