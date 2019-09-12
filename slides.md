@@ -209,7 +209,7 @@ Think about a baby step!<!-- .element: class="fragment" data-fragment-index="1" 
 
 Always start with an assertion!<!-- .element: class="fragment" data-fragment-index="2" -->
 
-Arrange yourself<!-- .element: class="fragment" data-fragment-index="3" -->
+Arrange yourself!<!-- .element: class="fragment" data-fragment-index="3" -->
 
 then get your act together!<!-- .element: class="fragment" data-fragment-index="4" -->
 
@@ -311,7 +311,7 @@ Which would make your employee class look like this:
 ### Open closed principle
 
 <blockquote cite="Robert C. Martin">
-    A class should have only one reason to change (Robert C. Martin)
+    Open for extension but closed for modification.
 </blockquote><!-- .element: class="fragment" data-fragment-index="1" -->
 
 
