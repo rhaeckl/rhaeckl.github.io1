@@ -237,6 +237,8 @@ the more detailed your tests get<!-- .element: class="fragment" data-fragment-in
 
 the more generic your code gets!<!-- .element: class="fragment" data-fragment-index="2" -->
 
+the goal is clean code that works<!-- .element: class="fragment" data-fragment-index="3" -->
+
 
 
 ### SOLID
@@ -496,3 +498,15 @@ public class MegaLamp implements Device {
     }
 }
 </code></pre>
+
+
+
+### How does TDD relate to patterns?
+
+- Reduces repeatable behavior to rules
+
+- applying the rules becomes rote and mecahnical
+
+- quicker tahn redebating everything from first principles all the time
+
+- When along comes an exeption, or a problem that just doesn't fit any of the rules, you have more time and energy to generate and apply creativity
