@@ -283,7 +283,7 @@ public class Employee {
 
 <pre class="java"><code>
 public class HRPromotion {
-    public boolean is PromotionDue(Employee employee) {
+    public boolean isPromotionDue(Employee employee) {
         // Code to determine promotion
     }
 }
@@ -346,8 +346,9 @@ public class AreaCalculator {
             if (shape.getType() == "Rectangle") {
                 area += shape.width * shape.height;
             }
-
-            area += Math.pow(shape.radius, 2) * Math.PI;
+            else {
+                area += Math.pow(shape.radius, 2) * Math.PI;
+            }
         }
 
         return area;
