@@ -505,8 +505,8 @@ public class MegaLamp implements Device {
 
 - Reduces repeatable behavior to rules<!-- .element: class="fragment" data-fragment-index="1" -->
 
-- applying the rules becomes rote and mecahnical<!-- .element: class="fragment" data-fragment-index="2" -->
+- applying the rules becomes rote and mechanical<!-- .element: class="fragment" data-fragment-index="2" -->
 
-- quicker tahn redebating everything from first principles all the time<!-- .element: class="fragment" data-fragment-index="3" -->
+- quicker than redebating everything from first principles all the time<!-- .element: class="fragment" data-fragment-index="3" -->
 
 - When along comes an exeption, or a problem that just doesn't fit any of the rules, you have more time and energy to generate and apply creativity<!-- .element: class="fragment" data-fragment-index="4" -->
